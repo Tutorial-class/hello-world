@@ -21,4 +21,4 @@ geetMe("Hello World")//When you open a web page, this will apear
   
   if (blank) then //This is really simple, but you get the idea that now the word we just said is defined.
   
-  
+  //Thanks for listening, I hope you enjoyed.
